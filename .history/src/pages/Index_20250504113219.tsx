@@ -10,11 +10,11 @@ const Index = () => {
   
   const projects = [
     {
-      title: "IoT Cloud File Storage System",
+      title: "IoT Cloud File Storage System (private)",
       description: "Designed and implemented a distributed IoT file storage system using RAID 0+1 architecture, written in C and C++."
     },
     {
-      title: "Watchdog Software",
+      title: "Watchdog Software (private)",
       description: "Developed a fault-tolerant, multi-threaded watchdog program in C to monitor and restart critical processes."
     },
     {
